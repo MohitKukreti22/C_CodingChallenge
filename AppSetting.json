@@ -1,0 +1,5 @@
+{
+  "ConnectionStrings": {
+    "localConnectionString": "Server=LAPTOP-117H7Q83;Database=LoanManagementSystem;Trusted_connection=true"
+  }
+}
